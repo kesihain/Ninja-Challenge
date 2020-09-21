@@ -1,4 +1,4 @@
-# Triangle-Challenge-JS
+# Ninja-Challenge-JS
 This was a simple DOM manipulation exercise with 3 subchallenges. (The challenges are described in the problem section)
 
 #### The Problem
